@@ -1,0 +1,66 @@
+
+		.contact1{
+			margin-top: 50px;	
+			margin-left: 120px;
+			width:80%;
+			height:auto;
+			//border:1px solid black;
+			//background-color: red;
+		}
+
+		.h1contact{
+			letter-spacing: 5px;
+			font-family: Playfair Display;
+			font-weight: 400;
+			font-size: 36px;
+		}
+
+		.contactform{
+
+			border:none;
+			border-bottom: 1px solid black;
+			width:100%;
+			height:40px;
+			padding: 30px;
+			font:inherit;
+
+		}
+
+		#btn1{
+			margin-top: 30px; 
+			border:0px solid grey;
+			width:;
+			height:40px;
+			padding: 10px;
+			text-align: center;
+			margin-bottom: 25px;"
+			background-color: #f1f1f1;
+			color: #000;
+			font-family: sans-serif;
+		}
+		#btn1:hover{
+			background-color: #ccc;
+			color:#000;
+		}
+
+		#home{
+			text-decoration: none;
+			background-color: #ccc;
+			color:black;
+			width:auto;		
+			height:5vh;
+			padding:10px;
+		}
+		a{
+			text-decoration: none;
+			color:black;
+			letter-spacing: 5px;
+			font-family: Playfair Display;
+			font-weight: 400;
+			font-size: 36px;
+			text-align: center;
+		}
+		#home:hover{
+			background-color:#f1f1f1;
+		}
+

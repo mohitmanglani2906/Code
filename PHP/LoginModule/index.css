@@ -1,0 +1,97 @@
+*{
+			margin: 0;
+			padding: 0;
+		}
+
+		.contact{
+			width:98.7vw;
+			height:115vh;
+			//background-color: red;
+		}
+		.contact1{
+			margin-top: -300px;	
+			margin-left: 120px;
+			width:80%;
+			height:auto;
+			//border:1px solid black;
+			//background-color: red;
+		}
+		.h1contact{
+			letter-spacing: 5px;
+			font-family: Playfair Display;
+			font-weight: 400;
+			font-size: 36px;
+		}
+		#p1contact{
+			margin-top: 50px;
+			line-height: 1.5em;
+			font-family: Playfair Display; 
+		}
+		#p2contact{
+			margin-top: 20px;
+			color:#607d8b;
+			font-size: 18px;
+			font-weight: bold;
+			font-family: Times New Roman, Georgia, Serif;
+		}
+		.contactform{
+
+			border:none;
+			border-bottom: 1px solid black;
+			width:100%;
+			height:20px;
+			padding: 15px;
+			font:inherit;
+
+		}
+		#btn1{
+			margin-top: 30px; 
+			border:0px solid grey;
+			width:;
+			height:40px;
+			padding: 10px;
+			text-align: center;
+			margin-bottom: 25px;"
+			background-color: #f1f1f1;
+			color: #000;
+			font-family: sans-serif;
+		}
+		#btn1:hover{
+			background-color: #ccc;
+			color:#000;
+		}
+
+		.login{
+			//background-color: red;
+			margin-left:120px;
+			width:82%;
+			margin-top: 100px;
+		}
+		.logininput{
+			border:none;
+			border-bottom: 1px solid black;
+			width:100%;
+			height:20px;
+			padding: 15px;
+			font:inherit;
+			margin-top: 20px;
+		}
+
+		#btnlogin {
+			border:0px solid grey;
+			width:100px;
+			height:40px;
+			padding: 10px;
+			text-align: center;
+			margin-bottom: 25px;"
+			background-color: #f1f1f1;
+			color: #000;
+			font-family: sans-serif;
+			margin-left: 0px;
+			margin-top: 30px;
+		}
+		#btnlogin:hover{
+			background-color: #ccc;
+			color:#000;
+		}
+		
